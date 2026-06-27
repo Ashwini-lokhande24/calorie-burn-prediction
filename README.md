@@ -3,11 +3,10 @@ A machine learning web application that predicts calories burned during exercise
 
 ## Problem Statement
 Traditional calorie tracking methods are inaccurate and generalized.
-This project builds a personalized ML model using real fitness data
-to accurately predict calories burned during exercise.
+This project builds a personalized ML model using real fitness data to accurately predict calories burned during exercise.
 
 ## About
-Built as part of MCA Data Science curriculum at Sri Balaji University, Pune.
+Developed an end-to-end machine learning application that predicts calories burned during exercise using physiological and activity-related features. The solution includes data analysis, model comparison, and Flask-based deployment.
 
 ## Dataset
 - Source: Kaggle
