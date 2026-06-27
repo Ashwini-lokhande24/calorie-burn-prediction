@@ -5,6 +5,15 @@ A machine learning web application that predicts calories burned during exercise
 ## About
 Built as part of MCA Data Science curriculum at Sri Balaji University, Pune.
 
+## Screenshots
+
+### Web Application
+![Home Page](screenshots/webapp_home.png)
+![Prediction Result](screenshots/webapp_prediction.png)
+
+### EDA - Correlation Heatmap
+![Heatmap](screenshots/eda_heatmap.png)
+
 ## Tech Stack
 Core Programming Language used - Python, Pandas, NumPy
 For Model Building - Scikit-learn (SVR, Random Forest, Decision Tree, Linear Regression)
